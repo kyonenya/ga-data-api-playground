@@ -1,0 +1,11 @@
+{
+  "name": "ga-data-api-playground",
+  "version": "1.0.0",
+  "description": "Google Analytics Data APIの素振り",
+  "license": "UNLICENSED",
+  "author": "kyonenya",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
